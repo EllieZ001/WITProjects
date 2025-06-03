@@ -1,4 +1,5 @@
 def function(a,b):
     return a+b
 
-function(2,3)
+print(function(2,3))
+print("add a line")
